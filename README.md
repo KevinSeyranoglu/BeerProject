@@ -24,7 +24,7 @@ Please note that this project is still a work in progress, and im an continuousl
 ## Future Steps
 Once I have achieved satisfactory results, I plan to deploy the model on a server, making it accessible to anyone seeking personalized beer recommendations. This deployment will allow users to easily obtain beer suggestions tailored to their unique tastes and preferences.
 
- are excited about the potential of this project and look forward to helping you discover the perfect beer for any occasion. Cheers!
+I am excited about the potential of this project and look forward to helping you discover the perfect beer for any occasion. Cheers!
 
 Please feel free to explore the repository, and if you have any questions or suggestions, don't hesitate to reach out.
 
