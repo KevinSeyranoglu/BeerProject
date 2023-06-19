@@ -21,6 +21,10 @@ Please note that this project is still a work in progress, and im an continuousl
 
 ### [beer dashboard](https://lookerstudio.google.com/s/rUDsWY38Mhw)
 
+### Example 
+![image](https://github.com/KevinSeyranoglu/BeerProject/assets/72477964/67c03f20-f591-4d80-a438-271a795f5b2f)
+
+
 ## Future Steps
 Once I have achieved satisfactory results, I plan to deploy the model on a server, making it accessible to anyone seeking personalized beer recommendations. This deployment will allow users to easily obtain beer suggestions tailored to their unique tastes and preferences.
 
